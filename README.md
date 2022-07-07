@@ -24,3 +24,6 @@ returns the person associated with the id
 
 The `GET` with no params requires nothing<br>
 returns all persons in the database
+
+## UML
+![Screen Shot 2022-07-07 at 4 21 03 PM](https://user-images.githubusercontent.com/55909913/177887278-c7a74c83-6292-45d2-9653-0f777e25e492.png)
